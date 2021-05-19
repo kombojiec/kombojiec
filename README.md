@@ -16,3 +16,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kombojiec&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
