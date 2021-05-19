@@ -1,9 +1,18 @@
 [![Header](https://github.com/kombojiec/kombojiec/blob/main/assets/wallpaper.jpg)](https://github.com/kombojiec)
 
-## Привет, я начинающий front-end разработчик.
+## Привет, я начинающий front-end разработчик. Развиваюсь в сфере IT, в частности в клиент-серверных приложениях и web разработке.
 
-learning
+Прохожу обучение в московской школе программистов, окончил курсы "web-разработчик" в Яндекс.Практикум, и прохожу онлайн курсы на платформе udemy.
 
-Tools
-
-Links
+### Используемые в работе языки и инструменты:
+![HTML](https://img.shields.io/badge/-HTML-000000?style=for-the-badge&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![BEM](https://img.shields.io/badge/-BEM-000000?style=for-the-badge&logo=BEM)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git&logoColor=ffffff)
+![npm](https://img.shields.io/badge/-npm-000000?style=for-the-badge&logo=npm)
+![webpack](https://img.shields.io/badge/-webpack-000000?style=for-the-badge&logo=webpack)
+![React.js](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=React)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux)
+![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=photoshop)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma)
