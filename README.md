@@ -1,4 +1,4 @@
-[![Header](https://github.com/kombojiec/kombojiec/blob/main/assets/wallpaper.jpg)](https://github.com/kombojiec)
+[![Header](https://github.com/kombojiec/kombojiec/blob/main/assets/wallpapper.jpg)](https://github.com/kombojiec)
 
 ## Привет, я web-разработчик. Развиваюсь в сфере IT, в частности в клиент-серверных приложениях и web разработке.
 
